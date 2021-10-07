@@ -9,4 +9,4 @@ xattr -cr /pathto/Tethys.app
 
 Windows should be more straightforward.
 
-Also included in this repo are the assets and files for making it in GameMaker Studio.
+This was made in GameMaker Studio.
